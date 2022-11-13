@@ -1,0 +1,8 @@
+Add multiple friends:
+
+https://www.linkedin.com/mynetwork/
+
+
+for (let i = 0; i < 80; i++) {
+  document.getElementsByClassName("artdeco-button artdeco-button--2 artdeco-button--secondary ember-view full-width")[i].click()
+}
